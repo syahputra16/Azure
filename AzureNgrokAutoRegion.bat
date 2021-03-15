@@ -4,7 +4,7 @@ title Zewroid-RDP
 
 echo Download all files...
 curl --silent -O https://raw.githubusercontent.com/TheDarkMythos/Ngrok-Exe/master/ngrok.exe 
-curl --silent -O https://raw.githubusercontent.com/huilgetto/Azure_RDP/main/NGROK-CHECK.bat
+curl --silent -O https://raw.githubusercontent.com/BrieflyHarun/Azure/main/NGROK-CHECK.bat
 
 
 echo Copy NGROK to System32...
