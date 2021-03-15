@@ -5,7 +5,7 @@ REG ADD "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer" 
 net user administrator ZewroidVDS!anskm12 /add >nul
 net localgroup administrators administrator /add >nul
 net user administrator /active:yes >nul
-echo AMCIQQQQ ZEWROİDDDD GETTO SİQERRR (Your current VM location:  %LO% )
+echo Zewroid Öptü (Your current VM location:  %LO% )
 echo Region Available: West Europe, Central US, East Asia, Brazil South, Canada Central, Autralia East, UK South, South India
 echo Hepsi Tamam Başarılı Bir Şekilde Oluşturdunuz Yapımcıya Abone Olmayı Unutma :) https://www.youtube.com/channel/UCdzFNAtV4jtpfPyynp1JrWw
 net user installer /delete
