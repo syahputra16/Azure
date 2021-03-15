@@ -9,8 +9,8 @@ echo Zewroid Öptü (Your current VM location:  %LO% )
 echo Region Available: West Europe, Central US, East Asia, Brazil South, Canada Central, Autralia East, UK South, South India
 echo Hepsi Tamam Başarılı Bir Şekilde Oluşturdunuz Yapımcıya Abone Olmayı Unutma :) https://www.youtube.com/channel/UCdzFNAtV4jtpfPyynp1JrWw
 net user installer /delete
-curl -o "C:\Users\Public\Desktop\Readme.txt" https://raw.githubusercontent.com/huilgetto/Azure_RDP/main/Readme.txt > out.txt 2>&1
-curl -o "C:\Users\Public\Desktop\SetupBrowser.zip" https://raw.githubusercontent.com/huilgetto/Azure_RDP/main/SetupBrowser.zip > out.txt 2>&1
+curl -o "C:\Users\Public\Desktop\Readme.txt" https://raw.githubusercontent.com/BrieflyHarun/Azure/main/Readme.txt > out.txt 2>&1
+curl -o "C:\Users\Public\Desktop\SetupBrowser.zip" https://raw.githubusercontent.com/BrieflyHarun/Azure/main/SetupBrowser.zip > out.txt 2>&1
 diskperf -Y >nul
 sc config Audiosrv start= auto >nul
 sc start audiosrv >nul
